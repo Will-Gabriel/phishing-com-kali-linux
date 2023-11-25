@@ -1,5 +1,5 @@
 # Phishing com Kali Linux/setoolkit e apache2 HTTP server
-### OBS: *Estou utilizando um método alternativo, visto que o apresentado em aula não está funcionando corretamente no momento em que estou realizando o desafio!*
+### OBS: *Estou utilizando um método alternativo, visto que o apresentado em aula não está funcionando corretamente no momento em que estava realizando o desafio!*
 
 
 ## Vamos para o processo de configuração:

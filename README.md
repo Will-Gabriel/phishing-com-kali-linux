@@ -92,7 +92,3 @@ Abrindo o terminal e nos movendo para o diretório, podemos ver o arquivo harves
 Utilizando o comando ```cat``` para exibir o conteúdo do arquivo ou simplesmente abrindo com um editor de texto, podemos ver o registro dos valores inseridos pela pessoa no formulário.
 
 ![imagem 16](imagens/imagem16.PNG "imagem")
-
----
-# *Utilize os aprendizados com sabedoria!*
-### *Método utilizado foi realizado com a ajuda do amigo "<a href="https://www.instagram.com/wiliann.gabriel/" target="_blank">lucaspicinini</a>"
